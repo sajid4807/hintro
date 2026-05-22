@@ -6,6 +6,10 @@ This project demonstrates real-world frontend engineering skills including API i
 
 ---
 
+## 🚀 Live Link: https://hintro-lac.vercel.app/
+
+---
+
 ## 🚀 Features
 
 - 📊 Dashboard analytics (Total Sessions, AI usage, Average duration)
@@ -29,28 +33,9 @@ This project demonstrates real-world frontend engineering skills including API i
 
 ---
 
-## 📁 Project Structure
-
-src/
-│
-├── Components/
-│ ├── DashboardContent/
-│ │ ├── DashboardContent.jsx
-│ │
-│ ├── Navbar.jsx
-│ ├── Sidebar.jsx
-│
-├── hooks/
-│ └── useAxios.jsx
-│
-├── Pages/
-│ └── Dashboard.jsx
-│
-└── main.jsx
-
 ## ⚙️ Setup Instructions
 
-git clone https://github.com/your-username/hintro-dashboard.git
-cd hintro-dashboard
+git clone https://github.com/sajid4807/hintro.git
+cd hintro
 npm install
 npm run dev
