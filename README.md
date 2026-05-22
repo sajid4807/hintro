@@ -51,6 +51,9 @@ src/
 ## ⚙️ Setup Instructions
 
 git clone https://github.com/your-username/hintro-dashboard.git
+
 cd hintro-dashboard
+
 npm install
+
 npm run dev
