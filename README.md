@@ -34,23 +34,25 @@ This project demonstrates real-world frontend engineering skills including API i
 src/
 │
 ├── Components/
-│ ├── DashboardContent/
-│ │ ├── DashboardContent.jsx
-│ │
-│ ├── Navbar.jsx
-│ ├── Sidebar.jsx
+│   ├── DashboardContent/
+│   │   ├── DashboardContent.jsx
+│   ├── Navbar.jsx
+│   ├── Sidebar.jsx
 │
 ├── hooks/
-│ └── useAxios.jsx
+│   └── useAxios.jsx
 │
 ├── Pages/
-│ └── Dashboard.jsx
+│   └── Dashboard.jsx
 │
 └── main.jsx
 
 ## ⚙️ Setup Instructions
 
 git clone https://github.com/your-username/hintro-dashboard.git
+
 cd hintro-dashboard
+
 npm install
+
 npm run dev
