@@ -1,12 +1,14 @@
 # 📊 Hintro Dashboard
 
-A modern React-based dashboard application that displays call session analytics, user profile data, and AI interaction statistics using a mock/Express API.
+A modern React-based dashboard application that displays call session analytics, user profile data, and AI interaction statistics using a mock API.
 
 This project demonstrates real-world frontend engineering skills including API integration, reusable components, responsive UI design, and state management.
 
 ---
 
-## 🚀 Live Link: https://hintro-lac.vercel.app/
+## 🌐 Live Link
+
+https://hintro-lac.vercel.app/
 
 ---
 
@@ -33,8 +35,21 @@ This project demonstrates real-world frontend engineering skills including API i
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ API Used
 
+Mock Backend:
+https://mock-backend-hintro.vercel.app/
+
+- Data is fetched using `x-user-id` header
+- Two users supported:
+  - `u1` → Empty state
+  - `u2` → Filled/random data
+
+---
+
+## 📁 Setup Instructions
+
+```bash
 git clone https://github.com/sajid4807/hintro.git
 
 cd hintro
